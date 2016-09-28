@@ -18,7 +18,7 @@ The **-audiodestin-audiosource** stream is used internally and loops continuousl
 
 Wowza Media Systems™ provides developers with a platform to create streaming applications and solutions. See [Wowza Developer Tools](https://www.wowza.com/resources/developers) to learn more about our APIs and SDK.
 
-To use the compiled version of this module, see [How to add an audio track to a video only stream (AddAudioTrack)](https://www.wowza.com/forums/content.php?590-How-to-add-an-audio-track-to-a-video-only-stream-%28ModuleAddAudioTrack%29).
+To use the compiled version of this module, see [How to add an audio track to a video-only stream (AddAudioTrack)](https://www.wowza.com/forums/content.php?590-How-to-add-an-audio-track-to-a-video-only-stream-%28ModuleAddAudioTrack%29).
 
 ## Contact
 [Wowza Media Systems, LLC](https://www.wowza.com/contact)
